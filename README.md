@@ -17,3 +17,7 @@ Other folders, like *data* or *old_versions* are keep in the .gitignore file so 
 
 If you have doubts, please write me: cibelesredondo@gmail.com
 I will be glad to answer all you questions about the process!
+
+
+
+P.D: Do not be afraid of the document titles! They are all quotes from EA games ;)
